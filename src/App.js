@@ -5,6 +5,7 @@ import SerachResult from './Components/SearchResult/searchResult'
 
 function App() {
   return (
+    // <Search></Search>,
     <SerachResult></SerachResult>
   );
 }
